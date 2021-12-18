@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "jsdom": "^19.0.0",
+    "node-html-parser": "^5.1.0"
+  }
+}
